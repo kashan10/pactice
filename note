@@ -1,3 +1,5 @@
+adb connect ip
+abd devices
 adb shell
 ls -iR | find -name "filename"
 adb pull "/sdcard/Folder1"
